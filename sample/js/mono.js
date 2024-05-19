@@ -10,7 +10,7 @@ window.addEventListener('load', function() {
 
     button1.onclick = function() {
       const data = {
-        amount: 44900,
+        amount: 1000,
         redirectUrl: redirectUrl,
         merchantPaymInfo: {
             destination: "За iнформацiйнi послуги",
